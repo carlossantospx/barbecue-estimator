@@ -1,1 +1,48 @@
-Welcome to my project. I will update this README soon. Thank you.
+<p align="center">	
+  <a href="https://www.linkedin.com/in/carlos-sb/">
+    <img alt="Carlos Santos" src="https://img.shields.io/badge/-KarolineTakahagassi-FFE162?style=flat&logo=Linkedin&logoColor=black"/>
+  </a>
+
+  <a href="mailto:dos.carlos@outlook.com">
+    <img alt="Carlos Santos" src="https://img.shields.io/badge/-takahagassi.dev@gmail.com-FFE162?style=flat-square&logo=Gmail&logoColor=black" />
+  </a>
+  <a href="https://github.com/carlossantospx/barbecue-estimator/blob/main/LICENSE">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-FFE162">
+  </a>
+</p>
+
+<div align="center">
+   Project developed on <a href="https://programadorbr.com/">ProgramadorBR</a> course.
+</div>
+
+<p align="center">
+  <img alt="mockup" src=".github/user-view.png" width="100%">
+</p>
+
+<p align="center">
+  <a href="#clipboard-sobre-o-projeto">About the Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-tecnologias-utilizadas">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+## :clipboard: About the Project
+
+Web Page developed to calculate how much it is needed for a Barbecue Party</br>
+Reference parameters are as follows:
+</br>
+Meat - 400gr per Person. If more than 6hours -> 650gr.
+</br>
+Beer - 1200ml per Person. If more than 6hours -> 2000ml.
+</br>
+Beverages - 1000ml per Person. If more than 6hours -> 1500ml.
+</br>
+For kids parameters are halved (0,5). Beer parameters are not applied to Kids.
+
+## :computer: Technologies: 
+
+This project was developed applying:
+
+- HTML
+- CSS
+- JavaScript
+
+This project is under MIT license. Check the file [LICENSE](https://github.com/carlossantospx/barbecue-estimator/blob/main/LICENSE) for more details.
