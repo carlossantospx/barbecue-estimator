@@ -45,4 +45,10 @@ This project was developed applying:
 - CSS
 - JavaScript
 
+## ⏫ Future Upgrades:
+
+- Add different kinds of meat
+- Add Vegetarian options
+- Add option that changes quantity result based on how hungry the party is
+
 This project is under MIT license. Check the file [LICENSE](https://github.com/carlossantospx/barbecue-estimator/blob/main/LICENSE) for more details.
