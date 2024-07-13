@@ -22,6 +22,7 @@
 <p align="center">
   <a href="#clipboard-about-the-project">About the Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-technologies">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#arrow_double_up-future-upgrades">Future Upgrades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :clipboard: About the Project
@@ -34,8 +35,8 @@ Meat - 400gr per Person. If more than 6hours -> 650gr.
 Beer - 1200ml per Person. If more than 6hours -> 2000ml.
 </br>
 Beverages - 1000ml per Person. If more than 6hours -> 1500ml.
-</br>
-For kids parameters are halved (0,5). Beer parameters are not applied to Kids.
+</br></br>
+*For kids parameters are halved (0,5). Beer parameters are not applied to Kids.
 
 ## :computer: Technologies: 
 
