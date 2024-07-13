@@ -1,12 +1,12 @@
 <p align="center">	
-  <a href="https://www.linkedin.com/in/carlos-sb/">
+  <a href="https://www.linkedin.com/in/carlos-sb/" style="text-decoration:none;">
     <img alt="Carlos Santos" src="https://img.shields.io/badge/-Carlos%20Santos-80C41C?style=flat&logo=Linkedin&logoColor=black"/>
   </a>
 
-  <a href="mailto:dos.carlos@outlook.com">
+  <a href="mailto:dos.carlos@outlook.com" style="text-decoration:none;">
     <img alt="Carlos Santos" src="https://img.shields.io/badge/-dos.carlos@outlook.com-80C41C?style=flat-square&logo=Gmail&logoColor=black" />
   </a>
-  <a href="https://github.com/carlossantospx/barbecue-estimator/blob/main/LICENSE">
+  <a href="https://github.com/carlossantospx/barbecue-estimator/blob/main/LICENSE" style="text-decoration:none;">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-80C41C">
   </a>
 </p>
