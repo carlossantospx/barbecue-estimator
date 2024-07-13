@@ -1,18 +1,18 @@
 <p align="center">	
   <a href="https://www.linkedin.com/in/carlos-sb/">
-    <img alt="Carlos Santos" src="https://img.shields.io/badge/-KarolineTakahagassi-FFE162?style=flat&logo=Linkedin&logoColor=black"/>
+    <img alt="Carlos Santos" src="https://img.shields.io/badge/-Carlos%20Santos-80C41C?style=flat&logo=Linkedin&logoColor=black"/>
   </a>
 
   <a href="mailto:dos.carlos@outlook.com">
-    <img alt="Carlos Santos" src="https://img.shields.io/badge/-takahagassi.dev@gmail.com-FFE162?style=flat-square&logo=Gmail&logoColor=black" />
+    <img alt="Carlos Santos" src="https://img.shields.io/badge/-dos.carlos@outlook.com-80C41C?style=flat-square&logo=Gmail&logoColor=black" />
   </a>
   <a href="https://github.com/carlossantospx/barbecue-estimator/blob/main/LICENSE">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-FFE162">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-80C41C">
   </a>
 </p>
 
 <div align="center">
-   Project developed on <a href="https://programadorbr.com/">ProgramadorBR</a> course.
+   Project developed on <a href="https://programadorbr.com/">ProgramadorBR</a> course. <br>
 </div>
 
 <p align="center">
@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <a href="#clipboard-sobre-o-projeto">About the Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-tecnologias-utilizadas">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#clipboard-about-the-project">About the Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-technologies">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :clipboard: About the Project
