@@ -1,18 +1,18 @@
 <p align="center">	
-  <a href="https://www.linkedin.com/in/carlos-sb/" style="text-decoration:none;">
-    <img alt="Carlos Santos" src="https://img.shields.io/badge/-Carlos%20Santos-80C41C?style=flat&logo=Linkedin&logoColor=black"/>
+  <a href="https://www.linkedin.com/in/carlos-sb/">
+    <img style="text-decoration:none;" alt="Carlos Santos" src="https://img.shields.io/badge/-Carlos%20Santos-80C41C?style=flat&logo=Linkedin&logoColor=black"/>
   </a>
 
-  <a href="mailto:dos.carlos@outlook.com" style="text-decoration:none;">
-    <img alt="Carlos Santos" src="https://img.shields.io/badge/-dos.carlos@outlook.com-80C41C?style=flat-square&logo=Gmail&logoColor=black" />
+  <a href="mailto:dos.carlos@outlook.com">
+    <img style="text-decoration:none;" alt="Carlos Santos" src="https://img.shields.io/badge/-dos.carlos@outlook.com-80C41C?style=flat-square&logo=Gmail&logoColor=black" />
   </a>
-  <a href="https://github.com/carlossantospx/barbecue-estimator/blob/main/LICENSE" style="text-decoration:none;">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-80C41C">
+  <a href="https://github.com/carlossantospx/barbecue-estimator/blob/main/LICENSE">
+  <img style="text-decoration:none;" alt="License" src="https://img.shields.io/badge/license-MIT-80C41C">
   </a>
 </p>
 
 <div align="center">
-   Project developed on <a href="https://programadorbr.com/">ProgramadorBR</a> course. <br>
+   Project developed on <a href="https://programadorbr.com/">ProgramadorBR</a> course. </br>
 </div>
 
 <p align="center">
