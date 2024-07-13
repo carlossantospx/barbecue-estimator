@@ -1,18 +1,18 @@
 <p align="center">	
-  <a href="https://www.linkedin.com/in/carlos-sb/">
+  <a href="https://www.linkedin.com/in/carlos-sb/" target="_blank">
     <img alt="Carlos Santos" src="https://img.shields.io/badge/-Carlos%20Santos-80C41C?style=flat&logo=Linkedin&logoColor=black"/>
   </a>
 
-  <a href="mailto:dos.carlos@outlook.com">
+  <a href="mailto:dos.carlos@outlook.com" target="_blank">
     <img alt="Carlos Santos" src="https://img.shields.io/badge/-dos.carlos@outlook.com-80C41C?style=flat-square&logo=Gmail&logoColor=black" />
   </a>
-  <a href="https://github.com/carlossantospx/barbecue-estimator/blob/main/LICENSE">
+  <a href="https://github.com/carlossantospx/barbecue-estimator/blob/main/LICENSE" target="_blank">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-80C41C">
   </a>
 </p>
 
 <div align="center">
- <h2>Project developed on <a href="https://programadorbr.com/">ProgramadorBR</a> course. </br></h2>
+ <h2>Project developed on <a href="https://programadorbr.com/" target="_blank">ProgramadorBR</a> course. </br></h2>
 </div>
 
 <p align="center">
