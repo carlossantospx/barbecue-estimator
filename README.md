@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
- <p>Project developed on <a href="https://programadorbr.com/">ProgramadorBR</a> course. </br></p>
+ <h2>Project developed on <a href="https://programadorbr.com/">ProgramadorBR</a> course. </br></h2>
 </div>
 
 <p align="center">
