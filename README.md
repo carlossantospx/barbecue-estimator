@@ -9,6 +9,9 @@
   <a href="https://github.com/carlossantospx/barbecue-estimator/blob/main/LICENSE" target="_blank">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-80C41C">
   </a>
+  <a href="https://github.com/carlossantospx/barbecue-estimator/pulls">
+    <img alt="Pull Request" src="https://img.shields.io/badge/PRs-Welcome-80c41c">
+  </a>
 </p>
 
 <div align="center">
