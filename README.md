@@ -12,6 +12,9 @@
   <a href="https://github.com/carlossantospx/barbecue-estimator/pulls">
     <img alt="Pull Request" src="https://img.shields.io/badge/PRs-Welcome-80c41c">
   </a>
+  <a href="https://buymeacoffee.com/carlossantospx">
+    <img alt="Support me!" src="https://img.shields.io/badge/Support%20my%20work!-%23FFDD00?logo=buymeacoffee&logoColor=black">
+  </a>
 </p>
 
 <div align="center">
