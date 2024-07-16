@@ -34,7 +34,6 @@ input{
 
 .box-calc {
     position: static;
-    /* background: #ffe162; */
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -87,10 +86,6 @@ input{
   .box-calc button:hover {
     background: #80C41C;
   }
-/* 
-  .color{
-    background-color: #c8f7fa;
-  } */
 
   .result-info {
     text-align: center;
@@ -159,7 +154,7 @@ input{
   /* Mobile Responsivity */
   
   @media (max-width: 700px) {
-    #resultado {
+    #result {
       width: 90%;
     }
   
@@ -178,8 +173,3 @@ input{
       border-radius: 0.6rem;
     }
   }
-
-
-/* .card:hover{
-    box-shadow: 8px 8px 15px 12px rgba(205, 205, 205, 0.25);
-} */
