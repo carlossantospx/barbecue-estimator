@@ -121,9 +121,9 @@ input{
   /* Desktop Responsivity */
 
 @media (min-width: 700px) {
-    * {
+/*     * {
       overflow: hidden;
-    }
+    } */
   
     .text-content h1 {
       font-size: 4rem;
